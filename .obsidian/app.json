@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "alphabetical",
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": false,
+  "defaultViewMode": "source",
+  "showLineNumber": false,
+  "vimMode": false,
+  "legacyEditor": false,
+  "livePreview": true
+}
